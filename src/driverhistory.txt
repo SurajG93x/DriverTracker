@@ -1,0 +1,5 @@
+Jon: 60 miles @ 39 mph
+Lauren: 42 miles @ 34 mph
+Dan: 39 miles @ 47 mph
+George: 34 miles @ 38 mph
+Kumi: 0 miles

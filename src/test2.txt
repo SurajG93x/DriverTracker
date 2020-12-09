@@ -1,0 +1,22 @@
+Driver Dan
+Driver Lauren
+Driver Kumi
+Trip Dan 07:15 07:45 17.3
+Trip Dan 06:12 06:32 21.8
+Trip Lauren 12:01 13:16 42.0
+Trip George 14:22 14:56 14.0
+Trip Lauren 1#:55 16:14 52.4
+Trip Kumi 01:15 01:15 50.5
+Trip Dan -15:55 16:15 14.7
+Driver Giovani Lloris $@@#
+Driver Jon
+Trip Jon 00:15 01:47 60.0
+Trip Kumi 15:75 16:66 32.9
+Trip Dan 06:30 06:30 15.0
+Driver George
+Trip George 17:07 18:00 33.6
+Lorenzo Von MatterHorn
+Driver Feng-Shui
+Trip Kum! 14:19 14:36 12.7
+Trip Feng-Shui 19:49 20:51 59.9
+Trip Kumi 13:01 13:41 -33.4
